@@ -730,6 +730,9 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
  .news-archive-page .page-head .sub{font-size:19px;line-height:1.65}
  .news-archive-page .archive-tools{padding-top:36px}
 }
+/* Speaking-photo placeholder uses the same visual language as About-page photo placeholders. */
+.speaking-photo-placeholder{max-width:800px;margin:0 0 42px}
+@media(max-width:620px){.speaking-photo-placeholder{margin-bottom:32px}}
 /* Liftable speaker bio, approved for the Speaking page. */
 .speaking-positioning{max-width:800px;margin:0 0 38px;color:var(--ink-soft);font-size:18px;line-height:1.7}
 @media(max-width:620px){.speaking-positioning{font-size:17px;line-height:1.7;margin-bottom:32px}}
