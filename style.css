@@ -584,8 +584,10 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 /* Self-hosted editorial photo replacing the grad-school placeholder. */
 .photo-filled img { display: block; width: 100%; max-height: 660px; object-fit: cover; object-position: center 35%; }
 .photo-float.photo-filled { float: right; width: min(43%, 410px); margin: 8px 0 32px 44px; }
+.photo-float.photo-professional { float: left; width: min(43%, 410px); margin: 8px 44px 32px 0; }
+.photo-float.photo-professional .photo-placeholder-art { min-height: 300px; }
 @media (max-width: 760px) {
-  .photo-float.photo-filled { float: none; width: 100%; margin: 34px 0; }
+  .photo-float.photo-filled, .photo-float.photo-professional { float: none; width: 100%; margin: 34px 0; }
   .photo-filled img { max-height: none; }
 }
 /* Selected Appearances on the full speaking page mirrors the homepage logo treatment. */
@@ -759,8 +761,9 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 
 /* About: Board Work */
 .board-work { background: var(--navy); color: #f4f1ea; }
-.board-work h2 { max-width: 760px; font-size: clamp(34px, 5vw, 48px); }
-.board-work .board-lede { max-width: 800px; color: #c9c6bd; font-size: 19px; line-height: 1.65; }
+.board-work .eyebrow { margin-bottom: 12px; }
+.board-work h2 { max-width: 760px; margin: 0 0 22px; font-size: clamp(34px, 5vw, 48px); line-height: 1.08; }
+.board-work .board-lede { max-width: 800px; margin-top: 0; color: #c9c6bd; font-size: 19px; line-height: 1.65; }
 .board-service-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; margin-top: 38px; background: rgba(255,255,255,.16); border: 1px solid rgba(255,255,255,.16); }
 .board-service { min-height: 220px; padding: 30px; background: #17172c; }
 .board-service-lead { min-height: 245px; }
