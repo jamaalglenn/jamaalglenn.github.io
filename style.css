@@ -808,3 +808,8 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 .advisory-lane{display:flex;flex-direction:column;min-height:360px;padding:32px;background:var(--bg)}
 .advisory-lane h3{font:600 31px/1.1 var(--serif);margin:22px 0 16px}.advisory-lane p:not(.eyebrow){color:var(--ink-soft);line-height:1.62}.advisory-lane a{margin-top:auto;padding-top:25px;font-weight:700}
 @media(max-width:820px){.advisory-lane-grid{grid-template-columns:1fr}.advisory-lane{min-height:0;padding:28px 22px}.advisory-lane a{margin-top:18px;padding-top:0}}
+/* v3.19: preview refinements requested in review. */
+.speaking-logo-profellow img{width:150px!important;max-width:150px!important;height:38px!important;max-height:38px!important;border-radius:0!important;object-position:left center}
+.advisory-lanes-heading span{display:block}.advisory-lane-grid{gap:24px;background:none;border:0}.advisory-lane{border:1px solid var(--line)}
+.bio-lens .lens-head{border-bottom:0!important;padding-bottom:0!important}.bio-lens .lens-head h2{font-size:clamp(38px,5vw,56px)}
+@media(max-width:820px){.speaking-logo-profellow img{width:145px!important;max-width:145px!important;height:36px!important;max-height:36px!important}.advisory-lane-grid{gap:22px}.advisory-lanes-heading span{margin-bottom:4px}}
