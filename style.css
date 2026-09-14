@@ -790,3 +790,6 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
   .board-bottom { gap: 42px; }
   .board-affiliations li { grid-template-columns: 1fr; gap: 5px; }
 }
+
+/* News taxonomy labels use a consistent four-category vocabulary in caps. */
+.news-archive-page .tag { text-transform: uppercase; }
