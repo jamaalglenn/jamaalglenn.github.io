@@ -793,3 +793,11 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 
 /* News taxonomy labels use a consistent four-category vocabulary in caps. */
 .news-archive-page .tag { text-transform: uppercase; }
+/* v3.17: advisory identity and MBA coaching previews */
+.selected-speaking-block{margin-top:38px}.selected-speaking-block>.eyebrow{margin-bottom:12px}
+.advisory-identity-grid{display:grid;grid-template-columns:1fr 1fr;border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.advisory-identity{padding:40px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);min-height:330px;display:flex;flex-direction:column}
+.advisory-identity h2{font:600 clamp(30px,4vw,42px)/1.08 var(--serif);margin:9px 0 18px}.advisory-identity p:not(.eyebrow){color:var(--ink-soft);line-height:1.65}.advisory-identity a{margin-top:auto;padding-top:28px;font-weight:700}
+.mba-coaching-hero{background:var(--navy);color:white}.mba-coaching-hero .wrap{padding-top:110px;padding-bottom:110px}.mba-coaching-hero h1{font:600 clamp(48px,8vw,88px)/.98 var(--serif);max-width:900px;margin:12px 0 28px}.mba-coaching-hero .lede{color:#d3d0c8;max-width:720px;margin-bottom:32px}
+.mba-intro-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:70px}.coaching-step-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin-top:32px}.coaching-step-grid article{background:var(--bg);padding:34px;min-height:270px}.coaching-step-grid span{font-weight:700;color:var(--gold)}.coaching-step-grid h3{font:600 29px var(--serif);margin:35px 0 14px}.coaching-step-grid p{color:var(--ink-soft);line-height:1.6}
+@media(max-width:700px){.advisory-identity-grid,.mba-intro-grid,.coaching-step-grid{grid-template-columns:1fr}.advisory-identity{min-height:0;padding:28px 22px}.mba-coaching-hero .wrap{padding-top:72px;padding-bottom:72px}.coaching-step-grid article{min-height:0}}
