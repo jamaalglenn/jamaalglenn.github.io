@@ -828,3 +828,6 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 .identity-board .board-service-grid .board-role-card,.identity-board .board-service-grid .board-role-card:last-child{grid-column:auto;min-height:0;padding:24px 20px;border:0;border-top:3px solid var(--gold);background:var(--cream)}
 .board-role-logo{height:48px;display:flex;align-items:center;margin-bottom:18px}.board-role-logo img{display:block;max-width:155px;max-height:44px;width:auto;height:auto}.identity-board .board-role-card .board-type{color:var(--gold);font-size:10px;letter-spacing:1.5px}.identity-board .board-role-card h3{margin:8px 0;color:var(--ink);font-size:20px}.identity-board .board-role-card p{color:var(--ink-soft);font-size:14px;line-height:1.5}
 @media(max-width:760px){.about-long-page .identity-block>h2{font-size:32px}.identity-board .board-service-grid{grid-template-columns:1fr;gap:18px}}
+/* v3.23: Advisory section positioning review. */
+.advisory-role-line{white-space:nowrap}.advisory-lanes-heading{white-space:nowrap;font-size:clamp(27px,3.25vw,46px)}.advisory-positioning{max-width:900px;margin-top:24px}.advisory-positioning p{font-size:18px;line-height:1.65;color:var(--ink-soft);margin:0 0 14px}
+@media(max-width:860px){.advisory-role-line,.advisory-lanes-heading{white-space:normal}}
