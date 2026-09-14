@@ -833,3 +833,12 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 @media(max-width:860px){.advisory-role-line,.advisory-lanes-heading{white-space:normal}}
 @media(min-width:861px){.advisory-lanes-heading{font-size:34px}}
 @media(min-width:861px){.band h2.big.advisory-lanes-heading{font-size:34px}}
+/* v3.24: Advisory preview readability and career-chapter card treatment. */
+.advisory-positioning{max-width:760px;margin:26px auto 0}
+.advisory-positioning p{max-width:68ch}
+.advisory-lane-grid{gap:18px;margin-top:38px}
+.advisory-lane{min-height:330px;padding:24px 20px;border:0;border-top:3px solid var(--gold);background:var(--cream)}
+.advisory-lane h3{margin:8px 0 14px;font-size:24px}
+.advisory-lane p:not(.eyebrow){font-size:14px;line-height:1.5}
+.advisory-lane a{color:var(--gold);font-size:14px}
+@media(max-width:820px){.advisory-positioning{margin-left:0}.advisory-lane-grid{gap:18px}.advisory-lane{padding:24px 20px}}
