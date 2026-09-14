@@ -803,3 +803,8 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 @media(max-width:700px){.advisory-identity-grid,.mba-intro-grid,.coaching-step-grid{grid-template-columns:1fr}.advisory-identity{min-height:0;padding:28px 22px}.mba-coaching-hero .wrap{padding-top:72px;padding-bottom:72px}.coaching-step-grid article{min-height:0}}
 /* Salzburg portrait: preserve the full square portrait at desktop widths. */
 .news-release-page .detail-art img.portrait-detail-art{width:min(100%,660px);max-height:none;object-fit:contain;margin-inline:auto}
+/* v3.18: three corporate-advisory lanes, with admissions coaching separate. */
+.advisory-lane-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;margin-top:42px;background:var(--line);border:1px solid var(--line)}
+.advisory-lane{display:flex;flex-direction:column;min-height:360px;padding:32px;background:var(--bg)}
+.advisory-lane h3{font:600 31px/1.1 var(--serif);margin:22px 0 16px}.advisory-lane p:not(.eyebrow){color:var(--ink-soft);line-height:1.62}.advisory-lane a{margin-top:auto;padding-top:25px;font-weight:700}
+@media(max-width:820px){.advisory-lane-grid{grid-template-columns:1fr}.advisory-lane{min-height:0;padding:28px 22px}.advisory-lane a{margin-top:18px;padding-top:0}}
