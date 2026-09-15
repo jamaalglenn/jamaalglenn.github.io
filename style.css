@@ -833,3 +833,6 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 @media(max-width:860px){.advisory-role-line,.advisory-lanes-heading{white-space:normal}}
 @media(min-width:861px){.advisory-lanes-heading{font-size:34px}}
 @media(min-width:861px){.band h2.big.advisory-lanes-heading{font-size:34px}}
+/* v3.25: condensed homepage advisory section. */
+.home-advisory .lede{max-width:800px}.home-advisory-grid{gap:18px;background:none;border:0}.home-advisory-grid .advisory-lane{min-height:330px;padding:24px 20px;border:0;border-top:3px solid var(--gold);background:var(--gold-soft);color:var(--ink)}.home-advisory-grid .advisory-lane:hover{text-decoration:none;transform:translateY(-2px)}.home-advisory-grid .advisory-lane h3{min-height:68px;margin:8px 0 14px;font-size:24px}.home-advisory-grid .advisory-lane p{font-size:14px;line-height:1.5}.home-advisory-grid .advisory-lane span{margin-top:auto;padding-top:24px;color:var(--gold);font-size:14px;font-weight:700}
+@media(max-width:820px){.home-advisory-grid .advisory-lane{min-height:0}.home-advisory-grid .advisory-lane h3{min-height:0}}
