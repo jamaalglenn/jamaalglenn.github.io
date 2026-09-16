@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "timezone": "America/New_York",
+  "window_start": "2026-09-17",
+  "window_end": "2026-09-23",
+  "generated_at": "2026-09-16T18:50:00-04:00",
+  "items": [
+    {
+      "slot_id": "jg-2026-09-17-ai-spend",
+      "date": "2026-09-17",
+      "lane": "CFO system for AI spend",
+      "mode": "timely",
+      "passage": "Enterprise users will see cost increases before consumers. Consumers are more price-sensitive, and the broader media narrative is tied to consumer prices, giving the labs an incentive to protect that tier for as long as possible. Enterprise can absorb more, complains less publicly, and has fewer substitutes.",
+      "source_piece": {"title": "A French Magazine Quoted Me on AI Agents. Here's My Full Take on What the Real Cost of AI Means for Your Organization.", "url": "https://jamaalglenn.substack.com/p/a-french-magazine-quoted-me-on-ai"},
+      "hook": {"headline": "Gartner forecasts worldwide AI spending will grow 49.5% in 2026", "url": "https://www.gartner.com/en/newsroom/press-releases/2026-09-16-gartner-forecasts-worldwide-ai-spending-to-grow-49-point-5-percent-in-2026", "published_date": "2026-09-16"},
+      "platform_cuts": {
+        "linkedin": "Gartner says worldwide AI spending will grow 49.5% in 2026. Enterprise users will see cost increases before consumers. Consumers are more price-sensitive, and the broader media narrative is tied to consumer prices, giving the labs an incentive to protect that tier for as long as possible. Enterprise can absorb more, complains less publicly, and has fewer substitutes.",
+        "substack_notes": "Enterprise users will see AI cost increases before consumers. Consumers are more price-sensitive. Enterprise can absorb more, complains less publicly, and has fewer substitutes. Gartner's new 49.5% spending forecast makes the question for CFOs simple: who owns the bill?",
+        "x": ["1/ Gartner says worldwide AI spending will grow 49.5% in 2026. Enterprise users will see cost increases before consumers.", "2/ Consumers are more price-sensitive, giving labs an incentive to protect that tier for as long as possible. Enterprise can absorb more, complains less publicly, and has fewer substitutes."],
+        "threads": ["Gartner says worldwide AI spending will grow 49.5% in 2026.", "Enterprise users will see cost increases before consumers. Consumers are more price-sensitive. Enterprise can absorb more, complains less publicly, and has fewer substitutes."]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-18-labor-data",
+      "date": "2026-09-18",
+      "lane": "AI and labor markets",
+      "mode": "timely",
+      "passage": "AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring.",
+      "source_piece": {"title": "The Data Is In: AI Isn't Destroying Jobs. Here's What It's Actually Doing", "url": "https://jamaalglenn.substack.com/p/the-data-is-in-ai-isnt-destroying"},
+      "hook": {"headline": "New York Fed: businesses are using AI to transform work, not cut jobs", "url": "https://libertystreeteconomics.newyorkfed.org/2026/09/businesses-are-using-ai-to-transform-work-not-cut-jobs/", "published_date": "2026-09-01"},
+      "platform_cuts": {
+        "linkedin": "AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring. That distinction matters. The New York Fed's new survey says businesses are using AI to transform work, not cut jobs. The bigger labor-market effect may be the roles companies never open while they wait to see what AI can do.",
+        "substack_notes": "AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring. The jobs story may be less about replacement than the roles companies never open.",
+        "x": ["AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring.", "The jobs story may be less about replacement than the roles companies never open while they wait to see what AI can do."],
+        "threads": ["AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring.", "That distinction matters. The bigger effect may be the roles companies never open while they wait to see what AI can do."]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-19-inference-bill",
+      "date": "2026-09-19",
+      "lane": "Inference economics",
+      "mode": "timely",
+      "passage": "The current conversation around AI layoffs is almost entirely about efficiency — fewer workers, lower costs, wider margins. You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell.",
+      "source_piece": {"title": "Jane Street Made $9 Million Per Employee Last Year. AI Didn't Replace Any of Them.", "url": "https://jamaalglenn.substack.com/p/jane-street-made-9-million-per-employee"},
+      "hook": {"headline": "MIT Technology Review examines what must happen for the trillion-dollar AI infrastructure gamble to pay off", "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/", "published_date": "2026-09-15"},
+      "platform_cuts": {
+        "linkedin": "The current conversation around AI is almost entirely about efficiency: fewer workers, lower costs, wider margins. You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell. The trillion-dollar infrastructure buildout eventually has to produce something bigger than cost cutting.",
+        "substack_notes": "AI talk is almost entirely about efficiency: fewer workers, lower costs, wider margins. You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell.",
+        "x": ["AI talk is almost entirely about efficiency: fewer workers, lower costs, wider margins.", "You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell."],
+        "threads": ["The current conversation around AI is almost entirely about efficiency: fewer workers, lower costs, wider margins.", "You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell."]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-20-token-costs",
+      "date": "2026-09-20",
+      "lane": "Inference economics",
+      "mode": "timely",
+      "passage": "Where agents are real and productive is in engineering. Software teams are seeing actual gains. That's created a bifurcation of worlds. Engineers feel like they're living in the future and can see how an agent might take their job. Everyone else, doing work that's less rules-based, less structured, less deterministic, is much further from disruption than the headlines suggest.",
+      "source_piece": {"title": "A French Magazine Quoted Me on AI Agents. Here's My Full Take on What the Real Cost of AI Means for Your Organization.", "url": "https://jamaalglenn.substack.com/p/a-french-magazine-quoted-me-on-ai"},
+      "hook": {"headline": "Elastic: why enterprise AI bills can rise while token prices fall", "url": "https://www.elastic.co/blog/token-costs-ai-bills", "published_date": "2026-09-04"},
+      "platform_cuts": {
+        "linkedin": "Where agents are real and productive is in engineering. Software teams are seeing actual gains. That's created a bifurcation of worlds. Engineers feel like they're living in the future. Everyone else, doing work that's less rules-based, less structured, less deterministic, is much further from disruption than the headlines suggest. Falling unit prices don't fix that deployment gap, and they don't guarantee a falling AI bill.",
+        "substack_notes": "Where agents are real and productive is in engineering. Software teams are seeing actual gains. Everyone else, doing work that's less rules-based and less deterministic, is much further from disruption than the headlines suggest.",
+        "x": ["1/ Where agents are real and productive is in engineering. Software teams are seeing actual gains.", "2/ Everyone else, doing work that's less rules-based, less structured, and less deterministic, is much further from disruption than the headlines suggest."],
+        "threads": ["Where agents are real and productive is in engineering. Software teams are seeing actual gains.", "That's created a bifurcation of worlds. Less structured, less deterministic work is much further from disruption than the headlines suggest."]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-21-opportunity-map",
+      "date": "2026-09-21",
+      "lane": "AI and labor markets",
+      "mode": "evergreen",
+      "passage": "I see this primarily as an opportunity gap map. The delta between the red bars (what AI is actually doing in practice) and the blue bars (what it could theoretically assist with) represents the space to build tools that fill the gap. That's a product roadmap, not a pink slip.",
+      "source_piece": {"title": "That Viral Anthropic Chart Does Not Say What You Think It Does", "url": "https://jamaalglenn.substack.com/p/that-viral-anthropic-chart-does-not"},
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "I see AI exposure charts primarily as opportunity gap maps. The delta between what AI is actually doing in practice and what it could theoretically assist with represents the space to build tools that fill the gap. That's a product roadmap, not a pink slip.",
+        "substack_notes": "The gap between what AI is actually doing and what it could theoretically assist with is a product roadmap, not a pink slip.",
+        "x": ["AI exposure charts are opportunity gap maps.", "The delta between what AI is doing and what it could theoretically assist with is space to build. That's a product roadmap, not a pink slip."],
+        "threads": ["AI exposure charts are opportunity gap maps.", "The gap between actual use and theoretical assistance is space to build tools. That's a product roadmap, not a pink slip."]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-22-ai-ownership",
+      "date": "2026-09-22",
+      "lane": "CFO system for AI spend",
+      "mode": "evergreen",
+      "passage": "Step three is ownership, and this is where most companies are flying blind. The organizations figuring this out have an AI lead who is AI-native, or close to it, overseeing usage across the company. When AI lives inside the legacy IT department, you get process and compliance. Experimentation and cost discipline come from giving it its own home.",
+      "source_piece": {"title": "A French Magazine Quoted Me on AI Agents. Here's My Full Take on What the Real Cost of AI Means for Your Organization.", "url": "https://jamaalglenn.substack.com/p/a-french-magazine-quoted-me-on-ai"},
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "Ownership is where most companies are flying blind. The organizations figuring AI out have an AI-native lead overseeing usage across the company. When AI lives inside the legacy IT department, you get process and compliance. Experimentation and cost discipline come from giving it its own home.",
+        "substack_notes": "When AI lives inside the legacy IT department, you get process and compliance. Experimentation and cost discipline come from giving it its own home.",
+        "x": ["Ownership is where most companies are flying blind on AI.", "When AI lives inside legacy IT, you get process and compliance. Experimentation and cost discipline come from giving it its own home."],
+        "threads": ["Ownership is where most companies are flying blind on AI.", "The organizations figuring it out have an AI-native lead overseeing usage. Experimentation and cost discipline come from giving AI its own home."]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-23-executive-gap",
+      "date": "2026-09-23",
+      "lane": "AI and labor markets",
+      "mode": "evergreen",
+      "passage": "The bottom line is that you can’t believe most of the hype around AI. Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work.",
+      "source_piece": {"title": "Executives and Employees Disagree on How Much Time AI Saves. Here's Why.", "url": "https://jamaalglenn.substack.com/p/executives-and-employees-disagree"},
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "The bottom line is that you can’t believe most of the hype around AI. Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work. Ask the workers correcting the errors, not just the executives buying the software.",
+        "substack_notes": "You can’t believe most of the hype around AI. Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work.",
+        "x": ["You can’t believe most of the hype around AI.", "Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work."],
+        "threads": ["You can’t believe most of the hype around AI.", "Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work."]
+      }
+    }
+  ]
+}
