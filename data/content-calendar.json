@@ -1,40 +1,10 @@
 {
   "schema_version": "1.0",
   "timezone": "America/New_York",
-  "window_start": "2026-09-17",
-  "window_end": "2026-09-23",
-  "generated_at": "2026-09-17T07:12:00-04:00",
+  "window_start": "2026-09-18",
+  "window_end": "2026-09-24",
+  "generated_at": "2026-09-18T07:12:00-04:00",
   "items": [
-    {
-      "slot_id": "jg-2026-09-17-jpmorgan-token-cap",
-      "date": "2026-09-17",
-      "lane": "CFO system for AI spend",
-      "mode": "timely",
-      "passage": "The idea that a tool used to make you more productive at work — work that ultimately benefits the organization — is part of your pay is corporate propaganda. Pure and simple. AI tokens might be part of your negotiation, the same way you negotiate other tools, hardware setups, or resources. Asking about your token budget in an interview is reasonable, as is asking about your laptop setup or whether the company pays for professional development. Those are legitimate questions about working conditions. But do not confuse any of that with compensation.",
-      "source_piece": {
-        "title": "Please Don't Let Your Employer Trick You Into Taking AI Tokens as Pay",
-        "url": "https://jamaalglenn.substack.com/p/please-dont-let-your-employer-trick"
-      },
-      "hook": {
-        "headline": "JPMorgan introduces $2,000 monthly Claude spending limits for some engineers",
-        "url": "https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9",
-        "published_date": "2026-09-17"
-      },
-      "platform_cuts": {
-        "linkedin": "JPMorgan has introduced $2,000 monthly Claude spending limits for some engineers. That's a significant AI budget. It is not compensation.\n\nThe idea that a tool used to make you more productive at work — work that ultimately benefits the organization — is part of your pay is corporate propaganda. Pure and simple.\n\nAI tokens might be part of your negotiation, the same way you negotiate other tools, hardware setups, or resources. Asking about your token budget in an interview is reasonable. But do not confuse any of that with compensation.",
-        "substack_notes": "JPMorgan has introduced $2,000 monthly Claude spending limits for some engineers. That's a significant AI budget. It is not compensation.\n\nAI tokens are tools used to make you more productive at work. Asking about your token budget in an interview is reasonable. But do not confuse any of that with pay.",
-        "x": [
-          "1/ JPMorgan has introduced $2,000 monthly Claude spending limits for some engineers. That's a significant AI budget. It is not compensation.",
-          "2/ The idea that a tool used to make you more productive at work — work that ultimately benefits the organization — is part of your pay is corporate propaganda. Pure and simple.",
-          "3/ Asking about your token budget in an interview is reasonable, just like asking about your laptop or professional development. Those are working conditions. Do not confuse them with pay."
-        ],
-        "threads": [
-          "JPMorgan has introduced $2,000 monthly Claude spending limits for some engineers. That's a significant AI budget. It is not compensation.",
-          "The idea that a tool used to make you more productive at work — work that ultimately benefits the organization — is part of your pay is corporate propaganda. Pure and simple.",
-          "Asking about your token budget in an interview is reasonable. Those are working conditions. Do not confuse them with pay."
-        ]
-      }
-    },
     {
       "slot_id": "jg-2026-09-17-ai-spend",
       "date": "2026-09-18",
@@ -194,9 +164,7 @@
           "The organizations figuring it out have an AI-native lead overseeing usage. Experimentation and cost discipline come from giving AI its own home."
         ]
       }
-    }
-  ],
-  "backlog": [
+    },
     {
       "slot_id": "jg-2026-09-23-executive-gap",
       "date": "2026-09-24",
@@ -221,5 +189,6 @@
         ]
       }
     }
-  ]
+  ],
+  "backlog": []
 }
