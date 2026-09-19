@@ -1,38 +1,10 @@
 {
   "schema_version": "1.0",
   "timezone": "America/New_York",
-  "window_start": "2026-09-18",
-  "window_end": "2026-09-24",
-  "generated_at": "2026-09-18T07:12:00-04:00",
+  "window_start": "2026-09-19",
+  "window_end": "2026-09-25",
+  "generated_at": "2026-09-19T07:12:00-04:00",
   "items": [
-    {
-      "slot_id": "jg-2026-09-17-ai-spend",
-      "date": "2026-09-18",
-      "lane": "CFO system for AI spend",
-      "mode": "timely",
-      "passage": "Enterprise users will see cost increases before consumers. Consumers are more price-sensitive, and the broader media narrative is tied to consumer prices, giving the labs an incentive to protect that tier for as long as possible. Enterprise can absorb more, complains less publicly, and has fewer substitutes.",
-      "source_piece": {
-        "title": "A French Magazine Quoted Me on AI Agents. Here's My Full Take on What the Real Cost of AI Means for Your Organization.",
-        "url": "https://jamaalglenn.substack.com/p/a-french-magazine-quoted-me-on-ai"
-      },
-      "hook": {
-        "headline": "Gartner forecasts worldwide AI spending will grow 49.5% in 2026",
-        "url": "https://www.gartner.com/en/newsroom/press-releases/2026-09-16-gartner-forecasts-worldwide-ai-spending-to-grow-49-point-5-percent-in-2026",
-        "published_date": "2026-09-16"
-      },
-      "platform_cuts": {
-        "linkedin": "Gartner says worldwide AI spending will grow 49.5% in 2026. Enterprise users will see cost increases before consumers. Consumers are more price-sensitive, and the broader media narrative is tied to consumer prices, giving the labs an incentive to protect that tier for as long as possible. Enterprise can absorb more, complains less publicly, and has fewer substitutes.",
-        "substack_notes": "Enterprise users will see AI cost increases before consumers. Consumers are more price-sensitive. Enterprise can absorb more, complains less publicly, and has fewer substitutes. Gartner's new 49.5% spending forecast makes the question for CFOs simple: who owns the bill?",
-        "x": [
-          "1/ Gartner says worldwide AI spending will grow 49.5% in 2026. Enterprise users will see cost increases before consumers.",
-          "2/ Consumers are more price-sensitive, giving labs an incentive to protect that tier for as long as possible. Enterprise can absorb more, complains less publicly, and has fewer substitutes."
-        ],
-        "threads": [
-          "Gartner says worldwide AI spending will grow 49.5% in 2026.",
-          "Enterprise users will see cost increases before consumers. Consumers are more price-sensitive. Enterprise can absorb more, complains less publicly, and has fewer substitutes."
-        ]
-      }
-    },
     {
       "slot_id": "jg-2026-09-18-labor-data",
       "date": "2026-09-19",
@@ -186,6 +158,30 @@
         "threads": [
           "You can’t believe most of the hype around AI.",
           "Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work."
+        ]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-25-experimentation",
+      "date": "2026-09-25",
+      "lane": "CFO system for AI spend",
+      "mode": "evergreen",
+      "passage": "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works. Instead of denying AI's existence, prepare your organization to thrive in an AI-infused world.",
+      "source_piece": {
+        "title": "What I'm Telling CEOs and Boards about Artificial Intelligence",
+        "url": "https://jamaalglenn.substack.com/p/what-im-telling-ceos-and-boards-about"
+      },
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works. Instead of denying AI's existence, prepare your organization to thrive in an AI-infused world. The strategy isn't buying every tool. It's building a system that identifies which experiments create value.",
+        "substack_notes": "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works. The strategy isn't buying every tool. It's building a system that identifies which experiments create value.",
+        "x": [
+          "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works.",
+          "The strategy isn't buying every tool. It's building a system that identifies which experiments create value."
+        ],
+        "threads": [
+          "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works.",
+          "Instead of denying AI's existence, prepare your organization to thrive in an AI-infused world. Invest in what actually creates value."
         ]
       }
     }
