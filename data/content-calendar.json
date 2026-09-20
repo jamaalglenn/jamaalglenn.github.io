@@ -1,38 +1,10 @@
 {
   "schema_version": "1.0",
   "timezone": "America/New_York",
-  "window_start": "2026-09-19",
-  "window_end": "2026-09-25",
-  "generated_at": "2026-09-19T07:12:00-04:00",
+  "window_start": "2026-09-20",
+  "window_end": "2026-09-26",
+  "generated_at": "2026-09-20T07:12:00-04:00",
   "items": [
-    {
-      "slot_id": "jg-2026-09-18-labor-data",
-      "date": "2026-09-19",
-      "lane": "AI and labor markets",
-      "mode": "timely",
-      "passage": "AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring.",
-      "source_piece": {
-        "title": "The Data Is In: AI Isn't Destroying Jobs. Here's What It's Actually Doing",
-        "url": "https://jamaalglenn.substack.com/p/the-data-is-in-ai-isnt-destroying"
-      },
-      "hook": {
-        "headline": "New York Fed: businesses are using AI to transform work, not cut jobs",
-        "url": "https://libertystreeteconomics.newyorkfed.org/2026/09/businesses-are-using-ai-to-transform-work-not-cut-jobs/",
-        "published_date": "2026-09-01"
-      },
-      "platform_cuts": {
-        "linkedin": "AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring. That distinction matters. The New York Fed's new survey says businesses are using AI to transform work, not cut jobs. The bigger labor-market effect may be the roles companies never open while they wait to see what AI can do.",
-        "substack_notes": "AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring. The jobs story may be less about replacement than the roles companies never open.",
-        "x": [
-          "AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring.",
-          "The jobs story may be less about replacement than the roles companies never open while they wait to see what AI can do."
-        ],
-        "threads": [
-          "AI isn’t directly taking jobs, but AI investment may be cannibalizing hiring.",
-          "That distinction matters. The bigger effect may be the roles companies never open while they wait to see what AI can do."
-        ]
-      }
-    },
     {
       "slot_id": "jg-2026-09-19-inference-bill",
       "date": "2026-09-20",
@@ -182,6 +154,30 @@
         "threads": [
           "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works.",
           "Instead of denying AI's existence, prepare your organization to thrive in an AI-infused world. Invest in what actually creates value."
+        ]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-26-ai-theater",
+      "date": "2026-09-26",
+      "lane": "AI and labor markets",
+      "mode": "evergreen",
+      "passage": "Welcome to the world of AI theater, where companies — and increasingly, individuals — engage in performative, often exaggerated proclamations about artificial intelligence. These proclamations are rarely about the tech itself. More often, they’re veiled marketing schemes, brand-building exercises, or clever distractions.",
+      "source_piece": {
+        "title": "Stop Falling for Corporate AI Theater",
+        "url": "https://jamaalglenn.substack.com/p/stop-falling-for-corporate-ai-theater"
+      },
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "Welcome to the world of AI theater, where companies — and increasingly, individuals — engage in performative, often exaggerated proclamations about artificial intelligence. These proclamations are rarely about the tech itself. More often, they’re veiled marketing schemes, brand-building exercises, or clever distractions. The louder the claim, the more important it is to ask what the speaker gains if you believe it.",
+        "substack_notes": "Welcome to the world of AI theater, where companies — and increasingly, individuals — make performative, exaggerated proclamations about AI. These claims are rarely about the tech itself. More often, they’re marketing schemes, brand-building exercises, or clever distractions.",
+        "x": [
+          "Welcome to the world of AI theater, where companies — and increasingly, individuals — make performative, exaggerated proclamations about AI.",
+          "These claims are rarely about the tech itself. More often, they’re marketing schemes, brand-building exercises, or clever distractions."
+        ],
+        "threads": [
+          "Welcome to the world of AI theater, where companies — and increasingly, individuals — make performative, exaggerated proclamations about AI.",
+          "These claims are rarely about the tech itself. More often, they’re marketing schemes, brand-building exercises, or clever distractions."
         ]
       }
     }
