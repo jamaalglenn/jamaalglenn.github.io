@@ -1,38 +1,10 @@
 {
   "schema_version": "1.0",
   "timezone": "America/New_York",
-  "window_start": "2026-09-20",
-  "window_end": "2026-09-26",
-  "generated_at": "2026-09-20T07:12:00-04:00",
+  "window_start": "2026-09-21",
+  "window_end": "2026-09-27",
+  "generated_at": "2026-09-21T07:12:00-04:00",
   "items": [
-    {
-      "slot_id": "jg-2026-09-19-inference-bill",
-      "date": "2026-09-20",
-      "lane": "Inference economics",
-      "mode": "timely",
-      "passage": "The current conversation around AI layoffs is almost entirely about efficiency — fewer workers, lower costs, wider margins. You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell.",
-      "source_piece": {
-        "title": "Jane Street Made $9 Million Per Employee Last Year. AI Didn't Replace Any of Them.",
-        "url": "https://jamaalglenn.substack.com/p/jane-street-made-9-million-per-employee"
-      },
-      "hook": {
-        "headline": "MIT Technology Review examines what must happen for the trillion-dollar AI infrastructure gamble to pay off",
-        "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-        "published_date": "2026-09-15"
-      },
-      "platform_cuts": {
-        "linkedin": "The current conversation around AI is almost entirely about efficiency: fewer workers, lower costs, wider margins. You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell. The trillion-dollar infrastructure buildout eventually has to produce something bigger than cost cutting.",
-        "substack_notes": "AI talk is almost entirely about efficiency: fewer workers, lower costs, wider margins. You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell.",
-        "x": [
-          "AI talk is almost entirely about efficiency: fewer workers, lower costs, wider margins.",
-          "You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell."
-        ],
-        "threads": [
-          "The current conversation around AI is almost entirely about efficiency: fewer workers, lower costs, wider margins.",
-          "You don't hear anyone saying AI will double revenue or dramatically expand capacity. That asymmetry is a tell."
-        ]
-      }
-    },
     {
       "slot_id": "jg-2026-09-20-token-costs",
       "date": "2026-09-21",
@@ -178,6 +150,30 @@
         "threads": [
           "Welcome to the world of AI theater, where companies — and increasingly, individuals — make performative, exaggerated proclamations about AI.",
           "These claims are rarely about the tech itself. More often, they’re marketing schemes, brand-building exercises, or clever distractions."
+        ]
+      }
+    },
+    {
+      "slot_id": "jg-2026-09-27-hiring-freeze",
+      "date": "2026-09-27",
+      "lane": "AI and labor markets",
+      "mode": "evergreen",
+      "passage": "They’ve been told AI will transform everything. But they don’t know how. So they’re waiting. They’re not hiring because they don’t know what they need. They’re unsure whether to invest in new headcount or hold off while they figure out if AI can replace those roles, where their operations are most exposed to disruption, or whether upskilling their existing teams might be the smarter bet.",
+      "source_piece": {
+        "title": "Why No One Can Get a Job in 2025",
+        "url": "https://jamaalglenn.substack.com/p/why-no-one-can-get-a-job-in-2025"
+      },
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "Companies have been told AI will transform everything. But they don’t know how. So they’re waiting. They’re not hiring because they don’t know what they need. They’re unsure whether to invest in new headcount, hold off while they see if AI can replace roles, or upskill the teams they already have. The effect on labor may show up first in jobs that never open, not jobs that disappear.",
+        "substack_notes": "Companies have been told AI will transform everything. But they don’t know how. So they’re waiting. They’re not hiring because they don’t know what they need. The labor effect may show up first in jobs that never open, not jobs that disappear.",
+        "x": [
+          "Companies have been told AI will transform everything. But they don’t know how. So they’re waiting.",
+          "They’re not hiring because they don’t know what they need. AI's labor effect may show up first in jobs that never open, not jobs that disappear."
+        ],
+        "threads": [
+          "Companies have been told AI will transform everything. But they don’t know how. So they’re waiting.",
+          "They’re unsure whether to invest in headcount, see if AI can replace roles, or upskill existing teams. The labor effect may show up first in jobs that never open."
         ]
       }
     }
