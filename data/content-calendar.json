@@ -1,41 +1,43 @@
 {
   "schema_version": "1.0",
   "timezone": "America/New_York",
-  "window_start": "2026-09-21",
-  "window_end": "2026-09-27",
-  "generated_at": "2026-09-21T07:12:00-04:00",
+  "window_start": "2026-09-22",
+  "window_end": "2026-09-28",
+  "generated_at": "2026-09-22T07:12:00-04:00",
   "items": [
     {
-      "slot_id": "jg-2026-09-20-token-costs",
-      "date": "2026-09-21",
-      "lane": "Inference economics",
+      "slot_id": "jg-2026-09-22-bot-bosses",
+      "date": "2026-09-22",
+      "lane": "AI and labor markets",
       "mode": "timely",
-      "passage": "Where agents are real and productive is in engineering. Software teams are seeing actual gains. That's created a bifurcation of worlds. Engineers feel like they're living in the future and can see how an agent might take their job. Everyone else, doing work that's less rules-based, less structured, less deterministic, is much further from disruption than the headlines suggest.",
+      "passage": "The idea that a tool used to make you more productive at work — work that ultimately benefits the organization — is part of your pay is corporate propaganda. Pure and simple. I know someone reading this is thinking: if I'm allocated more tokens, I could be more productive and ultimately get paid better. That logic only holds if you and your employer have truly aligned incentives.",
       "source_piece": {
-        "title": "A French Magazine Quoted Me on AI Agents. Here's My Full Take on What the Real Cost of AI Means for Your Organization.",
-        "url": "https://jamaalglenn.substack.com/p/a-french-magazine-quoted-me-on-ai"
+        "title": "Please Don't Let Your Employer Trick You Into Taking AI Tokens as Pay",
+        "url": "https://jamaalglenn.substack.com/p/please-dont-let-your-employer-trick"
       },
       "hook": {
-        "headline": "Elastic: why enterprise AI bills can rise while token prices fall",
-        "url": "https://www.elastic.co/blog/token-costs-ai-bills",
-        "published_date": "2026-09-04"
+        "headline": "Employees are becoming bot bosses without promotions or raises",
+        "url": "https://www.businessinsider.com/workers-managing-ai-agents-bots-promotions-raises-2026-9",
+        "published_date": "2026-09-22"
       },
       "platform_cuts": {
-        "linkedin": "Where agents are real and productive is in engineering. Software teams are seeing actual gains. That's created a bifurcation of worlds. Engineers feel like they're living in the future. Everyone else, doing work that's less rules-based, less structured, less deterministic, is much further from disruption than the headlines suggest. Falling unit prices don't fix that deployment gap, and they don't guarantee a falling AI bill.",
-        "substack_notes": "Where agents are real and productive is in engineering. Software teams are seeing actual gains. Everyone else, doing work that's less rules-based and less deterministic, is much further from disruption than the headlines suggest.",
+        "linkedin": "AI is turning workers into managers of bots — without the promotion or the raise.\n\nThe idea that a tool used to make you more productive at work — work that ultimately benefits the organization — is part of your pay is corporate propaganda. Pure and simple.\n\nIf managing agents gives you more responsibility, more output, and more accountability, companies will try to count the tool as part of your compensation. Don't let them. The productivity only strengthens the case that your work is worth more.",
+        "substack_notes": "AI is turning workers into managers of bots — without the promotion or the raise.\n\nA tool used to make you more productive at work is not part of your pay. If managing agents gives you more responsibility, output, and accountability, the case is that your work is worth more — not that the tool counts as compensation.",
         "x": [
-          "1/ Where agents are real and productive is in engineering. Software teams are seeing actual gains.",
-          "2/ Everyone else, doing work that's less rules-based, less structured, and less deterministic, is much further from disruption than the headlines suggest."
+          "1/ AI is turning workers into managers of bots — without the promotion or the raise.",
+          "2/ A tool used to make you more productive at work is not part of your pay. Calling it compensation is corporate propaganda. Pure and simple.",
+          "3/ If managing agents gives you more responsibility, output, and accountability, the case is that your work is worth more — not that the tool counts as compensation."
         ],
         "threads": [
-          "Where agents are real and productive is in engineering. Software teams are seeing actual gains.",
-          "That's created a bifurcation of worlds. Less structured, less deterministic work is much further from disruption than the headlines suggest."
+          "AI is turning workers into managers of bots — without the promotion or the raise.",
+          "A tool used to make you more productive at work is not part of your pay. Calling it compensation is corporate propaganda. Pure and simple.",
+          "If managing agents gives you more responsibility, output, and accountability, the case is that your work is worth more."
         ]
       }
     },
     {
       "slot_id": "jg-2026-09-21-opportunity-map",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "I see this primarily as an opportunity gap map. The delta between the red bars (what AI is actually doing in practice) and the blue bars (what it could theoretically assist with) represents the space to build tools that fill the gap. That's a product roadmap, not a pink slip.",
@@ -59,7 +61,7 @@
     },
     {
       "slot_id": "jg-2026-09-22-ai-ownership",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "lane": "CFO system for AI spend",
       "mode": "evergreen",
       "passage": "Step three is ownership, and this is where most companies are flying blind. The organizations figuring this out have an AI lead who is AI-native, or close to it, overseeing usage across the company. When AI lives inside the legacy IT department, you get process and compliance. Experimentation and cost discipline come from giving it its own home.",
@@ -83,7 +85,7 @@
     },
     {
       "slot_id": "jg-2026-09-23-executive-gap",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "The bottom line is that you can’t believe most of the hype around AI. Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work.",
@@ -107,7 +109,7 @@
     },
     {
       "slot_id": "jg-2026-09-25-experimentation",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "lane": "CFO system for AI spend",
       "mode": "evergreen",
       "passage": "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works. Instead of denying AI's existence, prepare your organization to thrive in an AI-infused world.",
@@ -131,7 +133,7 @@
     },
     {
       "slot_id": "jg-2026-09-26-ai-theater",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "Welcome to the world of AI theater, where companies — and increasingly, individuals — engage in performative, often exaggerated proclamations about artificial intelligence. These proclamations are rarely about the tech itself. More often, they’re veiled marketing schemes, brand-building exercises, or clever distractions.",
@@ -155,7 +157,7 @@
     },
     {
       "slot_id": "jg-2026-09-27-hiring-freeze",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "They’ve been told AI will transform everything. But they don’t know how. So they’re waiting. They’re not hiring because they don’t know what they need. They’re unsure whether to invest in new headcount or hold off while they figure out if AI can replace those roles, where their operations are most exposed to disruption, or whether upskilling their existing teams might be the smarter bet.",
