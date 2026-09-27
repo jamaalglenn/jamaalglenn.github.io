@@ -1,42 +1,43 @@
 {
   "schema_version": "1.0",
   "timezone": "America/New_York",
-  "window_start": "2026-09-24",
-  "window_end": "2026-09-30",
-  "generated_at": "2026-09-24T07:12:00-04:00",
+  "window_start": "2026-09-27",
+  "window_end": "2026-10-03",
+  "generated_at": "2026-09-27T07:13:00-04:00",
   "items": [
     {
-      "slot_id": "jg-2026-09-21-opportunity-map",
-      "date": "2026-09-24",
-      "lane": "AI and labor markets",
+      "slot_id": "jg-2026-09-27-agent-definition",
+      "date": "2026-09-27",
+      "lane": "CFO system for AI spend",
       "mode": "timely",
-      "passage": "I see this primarily as an opportunity gap map. The delta between the red bars (what AI is actually doing in practice) and the blue bars (what it could theoretically assist with) represents the space to build tools that fill the gap. That's a product roadmap, not a pink slip.",
+      "passage": "I think agents are both overhyped and genuinely promising. The conversation is confused because there’s no objective definition of an agent. Anything that doesn’t require continuous prompting is getting labeled as one. There’s cachet in deploying agents and talking about it publicly. You paint yourself as further ahead than everyone else, and widespread AI anxiety fuels demand for that signal.",
       "source_piece": {
-        "title": "That Viral Anthropic Chart Does Not Say What You Think It Does",
-        "url": "https://jamaalglenn.substack.com/p/that-viral-anthropic-chart-does-not"
+        "title": "A French Magazine Quoted Me on AI Agents. Here's My Full Take on What the Real Cost of AI Means for Your Organization.",
+        "url": "https://jamaalglenn.substack.com/p/a-french-magazine-quoted-me-on-ai"
       },
       "hook": {
-        "headline": "Good news for people whose jobs are being reshaped by AI",
-        "url": "https://www.businessinsider.com/exposure-to-ai-jobs-pay-growth-2026-9",
-        "published_date": "2026-09-22"
+        "headline": "81% of Global CIOs Say They Have Lost Oversight of Their Own AI Agents",
+        "url": "https://www.dataiku.com/company/news/global-ai-confessions-report-cio-edition-2026",
+        "published_date": "2026-09-24"
       },
       "platform_cuts": {
-        "linkedin": "Indeed Hiring Lab: median advertised pay for the jobs most exposed to AI has grown 46% since 2021. Less-exposed jobs: 25%.\n\nThat tracks with how I read the AI exposure charts. I see them primarily as an opportunity gap map. The delta between what AI is actually doing in practice and what it could theoretically assist with represents the space to build tools that fill the gap.\n\nThat's a product roadmap, not a pink slip.\n\nOne caveat worth watching: the pay gap barely shows up for entry-level roles. It widens with seniority.",
-        "substack_notes": "Indeed: pay for the most AI-exposed jobs is up 46% since 2021, vs. 25% for less-exposed work.\n\nThe gap between what AI is actually doing and what it could theoretically assist with is a product roadmap, not a pink slip.",
+        "linkedin": "A new Dataiku/Harris Poll survey of 685 CIOs says 81% lack complete oversight of agents created outside approved systems or formal channels. Nearly three in four (72%) can’t consistently confirm whether their agents are delivering the outcomes they were built for.\n\nI think agents are both overhyped and genuinely promising. The conversation is confused because there’s no objective definition of an agent. Anything that doesn’t require continuous prompting is getting labeled as one. There’s cachet in deploying agents and talking about it publicly.\n\nYou paint yourself as further ahead than everyone else, and widespread AI anxiety fuels demand for that signal. But if you can’t see the agents or measure what they do, what are you actually managing?",
+        "substack_notes": "Dataiku/Harris Poll: 81% of surveyed CIOs lack complete oversight of agents built outside approved systems. 72% can’t consistently confirm whether agents deliver their intended outcomes.\n\nAgents are both overhyped and genuinely promising. There’s cachet in deploying them and talking about it publicly. But who can tell what they actually do?",
         "x": [
-          "1/ Indeed Hiring Lab: advertised pay for the most AI-exposed jobs is up 46% since 2021. Less-exposed jobs: 25%.",
-          "2/ AI exposure charts are opportunity gap maps. The delta between what AI is doing and what it could theoretically assist with is space to build.\n\nThat's a product roadmap, not a pink slip.",
-          "3/ The catch: the pay gap barely shows up at entry level. It widens with seniority."
+          "1/ Dataiku/Harris Poll: 81% of 685 surveyed CIOs lack complete oversight of agents built outside approved systems. 72% can’t consistently confirm whether agents deliver intended outcomes.",
+          "2/ I think agents are both overhyped and genuinely promising. Anything that doesn’t require continuous prompting is getting labeled as one.",
+          "3/ There’s cachet in deploying agents and talking about it publicly. But if you can’t see or measure them, what are you managing?"
         ],
         "threads": [
-          "Pay for the most AI-exposed jobs is up 46% since 2021, per Indeed. Less-exposed jobs: 25%.",
-          "AI exposure charts are opportunity gap maps. The gap between actual use and theoretical assistance is space to build tools. That's a product roadmap, not a pink slip."
+          "Dataiku/Harris Poll: 81% of surveyed CIOs lack complete oversight of agents built outside approved systems. 72% can’t consistently confirm the agents deliver their intended outcomes.",
+          "I think agents are both overhyped and genuinely promising. The conversation is confused because there’s no objective definition of an agent.",
+          "There’s cachet in deploying agents and talking about it publicly. But if you can’t see them or measure outcomes, what are you managing?"
         ]
       }
     },
     {
       "slot_id": "jg-2026-09-22-ai-ownership",
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "lane": "CFO system for AI spend",
       "mode": "evergreen",
       "passage": "Step three is ownership, and this is where most companies are flying blind. The organizations figuring this out have an AI lead who is AI-native, or close to it, overseeing usage across the company. When AI lives inside the legacy IT department, you get process and compliance. Experimentation and cost discipline come from giving it its own home.",
@@ -60,7 +61,7 @@
     },
     {
       "slot_id": "jg-2026-09-23-executive-gap",
-      "date": "2026-09-26",
+      "date": "2026-09-29",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "The bottom line is that you can’t believe most of the hype around AI. Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work.",
@@ -84,7 +85,7 @@
     },
     {
       "slot_id": "jg-2026-09-25-experimentation",
-      "date": "2026-09-27",
+      "date": "2026-09-30",
       "lane": "CFO system for AI spend",
       "mode": "evergreen",
       "passage": "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works. Instead of denying AI's existence, prepare your organization to thrive in an AI-infused world.",
@@ -108,7 +109,7 @@
     },
     {
       "slot_id": "jg-2026-09-26-ai-theater",
-      "date": "2026-09-28",
+      "date": "2026-10-01",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "Welcome to the world of AI theater, where companies — and increasingly, individuals — engage in performative, often exaggerated proclamations about artificial intelligence. These proclamations are rarely about the tech itself. More often, they’re veiled marketing schemes, brand-building exercises, or clever distractions.",
@@ -132,7 +133,7 @@
     },
     {
       "slot_id": "jg-2026-09-23-subsidized-tokens",
-      "date": "2026-09-29",
+      "date": "2026-10-02",
       "lane": "Inference economics",
       "mode": "evergreen",
       "passage": "For now, I use it without any concern for cost, not just because it’s free but also because Instinct’s venture capital subsidizes my token usage and the computing I consume every time it’s working on my behalf. As I’ve written before, free and heavily subsidized tokens are going away. I keep asking myself how much I’d pay for this, and how I’d use it differently if every prompt, task, and project cost money.",
@@ -156,7 +157,7 @@
     },
     {
       "slot_id": "jg-2026-09-24-activity-vs-productivity",
-      "date": "2026-09-30",
+      "date": "2026-10-03",
       "lane": "CFO system for AI spend",
       "mode": "evergreen",
       "passage": "Consumption does not go hand in hand with productivity. There’s a lot of conflation between AI activity and AI productivity. People are doing lots of stuff with AI. The activity is real. How much of that activity is actually productive remains an open question.",
@@ -179,5 +180,78 @@
       }
     }
   ],
-  "backlog": []
+  "backlog": [
+    {
+      "slot_id": "jg-2026-10-01-inference-efficiency",
+      "date": "2026-10-04",
+      "lane": "Inference economics",
+      "mode": "evergreen",
+      "passage": "The most valuable expertise to build in-house is inference efficiency. How do you get the same output at a lower cost? I expect this to become a well-paid specialization in the next few months. Practically, that means two things. Build visibility into your inference spend now. Stress-test the ROI of your workflows at 2x and 3x current prices and see which ones still pencil out.",
+      "source_piece": {
+        "title": "A French Magazine Quoted Me on AI Agents. Here's My Full Take on What the Real Cost of AI Means for Your Organization.",
+        "url": "https://jamaalglenn.substack.com/p/a-french-magazine-quoted-me-on-ai"
+      },
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "The most valuable expertise to build in-house is inference efficiency. How do you get the same output at a lower cost?\n\nBuild visibility into your inference spend now. Stress-test the ROI of your workflows at 2x and 3x current prices and see which ones still pencil out.",
+        "substack_notes": "The most valuable expertise to build in-house is inference efficiency. How do you get the same output at a lower cost? Stress-test the ROI of your workflows at 2x and 3x current prices.",
+        "x": [
+          "1/ The most valuable expertise to build in-house is inference efficiency. How do you get the same output at a lower cost?",
+          "2/ Build visibility into your inference spend now. Stress-test workflows at 2x and 3x current prices. Which ones still pencil out?"
+        ],
+        "threads": [
+          "The most valuable expertise to build in-house is inference efficiency. How do you get the same output at a lower cost?",
+          "Build visibility into your inference spend now. Stress-test the ROI of your workflows at 2x and 3x current prices and see which ones still pencil out."
+        ]
+      }
+    },
+    {
+      "slot_id": "jg-2026-10-03-tokens-not-compensation",
+      "date": "2026-10-05",
+      "lane": "AI and labor markets",
+      "mode": "evergreen",
+      "passage": "A tool your employer provides so you can do your job is not compensation. Your laptop isn’t. Your Slack seat isn’t. Your token budget isn’t either. Ask about token budgets in interviews the same way you’d ask about hardware or dev tools. Just don’t let anyone put it on your offer letter and call it pay.",
+      "source_piece": {
+        "title": "Please Don't Let Your Employer Trick You Into Taking AI Tokens as Pay",
+        "url": "https://jamaalglenn.substack.com/p/please-dont-let-your-employer-trick"
+      },
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "A tool your employer provides so you can do your job is not compensation. Your laptop isn’t. Your Slack seat isn’t. Your token budget isn’t either.\n\nAsk about token budgets in interviews the same way you’d ask about hardware or dev tools. Just don’t let anyone put it on your offer letter and call it pay.",
+        "substack_notes": "Your laptop isn’t compensation. Your Slack seat isn’t. Your AI token budget isn’t either. Ask about token budgets in interviews like you’d ask about any work tool. Don’t let anyone call it pay.",
+        "x": [
+          "1/ A tool your employer provides so you can do your job is not compensation. Your laptop isn’t. Your Slack seat isn’t. Your token budget isn’t either.",
+          "2/ Ask about token budgets in interviews like you’d ask about hardware or dev tools. Don’t let anyone put it on your offer letter and call it pay."
+        ],
+        "threads": [
+          "A tool your employer provides so you can do your job is not compensation. Your laptop isn’t. Your Slack seat isn’t. Your token budget isn’t either.",
+          "Ask about token budgets in interviews the same way you’d ask about hardware or dev tools. Just don’t let anyone call it pay."
+        ]
+      }
+    },
+    {
+      "slot_id": "jg-2026-10-05-executive-task-fit",
+      "date": "2026-10-06",
+      "lane": "AI and labor markets",
+      "mode": "evergreen",
+      "passage": "AI is better at what executives do than what employees do. This might be the most important point. Executives spend most of their time making decisions and communicating, exactly what large language models excel at. Employees, on the other hand, make the products and services the company sells. AI is dramatically better at helping you talk, write, and choose between options than it is at actually creating things.",
+      "source_piece": {
+        "title": "Executives and Employees Disagree on How Much Time AI Saves. Here's Why.",
+        "url": "https://jamaalglenn.substack.com/p/executives-and-employees-disagree"
+      },
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "AI is better at what executives do than what employees do. This might be the most important point.\n\nExecutives spend most of their time making decisions and communicating, exactly what large language models excel at. Employees, on the other hand, make the products and services the company sells.\n\nAI is dramatically better at helping you talk, write, and choose between options than it is at actually creating things.",
+        "substack_notes": "AI is better at what executives do than what employees do. Executives spend most of their time making decisions and communicating. Employees make the products and services the company sells. That gap shapes who reports time savings.",
+        "x": [
+          "1/ AI is better at what executives do than what employees do.",
+          "2/ Executives spend most of their time making decisions and communicating. Employees make the products and services the company sells. That changes how each group experiences AI."
+        ],
+        "threads": [
+          "AI is better at what executives do than what employees do. This might be the most important point.",
+          "Executives make decisions and communicate. Employees make the products and services the company sells. AI is better at helping you talk, write, and choose than at actually creating things."
+        ]
+      }
+    }
+  ]
 }
