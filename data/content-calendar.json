@@ -1,43 +1,43 @@
 {
   "schema_version": "1.0",
   "timezone": "America/New_York",
-  "window_start": "2026-09-27",
-  "window_end": "2026-10-03",
-  "generated_at": "2026-09-27T07:13:00-04:00",
+  "window_start": "2026-09-28",
+  "window_end": "2026-10-04",
+  "generated_at": "2026-09-28T07:13:00-04:00",
   "items": [
     {
-      "slot_id": "jg-2026-09-27-agent-definition",
-      "date": "2026-09-27",
-      "lane": "CFO system for AI spend",
+      "slot_id": "jg-2026-09-28-speed-capacity",
+      "date": "2026-09-28",
+      "lane": "Personal AI agents",
       "mode": "timely",
-      "passage": "I think agents are both overhyped and genuinely promising. The conversation is confused because there’s no objective definition of an agent. Anything that doesn’t require continuous prompting is getting labeled as one. There’s cachet in deploying agents and talking about it publicly. You paint yourself as further ahead than everyone else, and widespread AI anxiety fuels demand for that signal.",
+      "passage": "Speed and Capacity Are the Only Real Agent Differentiators Now\n\nMy guess is that Instinct slowed down because it has to manage its inference costs. It’s free to use, so the company is unlikely to be earning any revenue. The business is likely funded entirely on venture capital, and people like me use it at an unbelievable clip.\n\nBig Tech Has a Structural Advantage\n\nA massively profitable business subsidizing a massively unprofitable AI business is a real advantage, at least in the short term.",
       "source_piece": {
-        "title": "A French Magazine Quoted Me on AI Agents. Here's My Full Take on What the Real Cost of AI Means for Your Organization.",
-        "url": "https://jamaalglenn.substack.com/p/a-french-magazine-quoted-me-on-ai"
+        "title": "A Few Slow Hours Were All It Took to Make Me Cheat on My AI Agent",
+        "url": "https://jamaalglenn.substack.com/p/a-few-slow-hours-were-all-it-took"
       },
       "hook": {
-        "headline": "81% of Global CIOs Say They Have Lost Oversight of Their Own AI Agents",
-        "url": "https://www.dataiku.com/company/news/global-ai-confessions-report-cio-edition-2026",
+        "headline": "Instinct users say they've noticed a slowdown with the buzzy AI agent",
+        "url": "https://www.businessinsider.com/instinct-slowdown-reaction-muse-rivalry-2026-9",
         "published_date": "2026-09-24"
       },
       "platform_cuts": {
-        "linkedin": "A new Dataiku/Harris Poll survey of 685 CIOs says 81% lack complete oversight of agents created outside approved systems or formal channels. Nearly three in four (72%) can’t consistently confirm whether their agents are delivering the outcomes they were built for.\n\nI think agents are both overhyped and genuinely promising. The conversation is confused because there’s no objective definition of an agent. Anything that doesn’t require continuous prompting is getting labeled as one. There’s cachet in deploying agents and talking about it publicly.\n\nYou paint yourself as further ahead than everyone else, and widespread AI anxiety fuels demand for that signal. But if you can’t see the agents or measure what they do, what are you actually managing?",
-        "substack_notes": "Dataiku/Harris Poll: 81% of surveyed CIOs lack complete oversight of agents built outside approved systems. 72% can’t consistently confirm whether agents deliver their intended outcomes.\n\nAgents are both overhyped and genuinely promising. There’s cachet in deploying them and talking about it publicly. But who can tell what they actually do?",
+        "linkedin": "Business Insider reports Instinct users have noticed slower answers and task completion. I had a few slow hours myself and tried Muse. Instinct has bounced back, but the episode sharpened my view.\n\nSpeed and capacity are the only real agent differentiators now. My guess is that Instinct slowed down because it has to manage inference costs. I don’t know that for sure. It’s free to use, and people like me use it at an unbelievable clip.\n\nA massively profitable business subsidizing a massively unprofitable AI business is a real advantage, at least in the short term. But I still find Instinct easier to use. That’s why I came back.",
+        "substack_notes": "Business Insider reports Instinct users have noticed a slowdown. I felt it, tried Muse, and came back.\n\nSpeed and capacity are the only real agent differentiators now. My guess is inference cost pressure, but I don’t know the cause. Instinct is easier for me to use, and that still matters.",
         "x": [
-          "1/ Dataiku/Harris Poll: 81% of 685 surveyed CIOs lack complete oversight of agents built outside approved systems. 72% can’t consistently confirm whether agents deliver intended outcomes.",
-          "2/ I think agents are both overhyped and genuinely promising. Anything that doesn’t require continuous prompting is getting labeled as one.",
-          "3/ There’s cachet in deploying agents and talking about it publicly. But if you can’t see or measure them, what are you managing?"
+          "1/ Business Insider reports Instinct users have noticed slower answers and task completion. I did too. I tried Muse, then came back.",
+          "2/ Speed and capacity are the only real agent differentiators now. My guess is inference cost pressure, but I can’t verify that as the cause.",
+          "3/ Big Tech can subsidize a losing AI product for years. Instinct is easier for me to use, though, and for now that keeps me loyal."
         ],
         "threads": [
-          "Dataiku/Harris Poll: 81% of surveyed CIOs lack complete oversight of agents built outside approved systems. 72% can’t consistently confirm the agents deliver their intended outcomes.",
-          "I think agents are both overhyped and genuinely promising. The conversation is confused because there’s no objective definition of an agent.",
-          "There’s cachet in deploying agents and talking about it publicly. But if you can’t see them or measure outcomes, what are you managing?"
+          "Business Insider reports Instinct users have noticed slower answers and task completion. I felt it, tried Muse, then came back.",
+          "Speed and capacity are the only real agent differentiators now. I suspect inference costs, but don’t know the cause of the slowdown.",
+          "Big Tech can subsidize AI losses for years. Instinct remains easier for me to use, and that still counts."
         ]
       }
     },
     {
       "slot_id": "jg-2026-09-22-ai-ownership",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "lane": "CFO system for AI spend",
       "mode": "evergreen",
       "passage": "Step three is ownership, and this is where most companies are flying blind. The organizations figuring this out have an AI lead who is AI-native, or close to it, overseeing usage across the company. When AI lives inside the legacy IT department, you get process and compliance. Experimentation and cost discipline come from giving it its own home.",
@@ -61,7 +61,7 @@
     },
     {
       "slot_id": "jg-2026-09-23-executive-gap",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "The bottom line is that you can’t believe most of the hype around AI. Especially when the people hyping it loudest have the least skin in the game when it comes to making it actually work.",
@@ -85,7 +85,7 @@
     },
     {
       "slot_id": "jg-2026-09-25-experimentation",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "lane": "CFO system for AI spend",
       "mode": "evergreen",
       "passage": "Smart companies will encourage AI experimentation among employees, learn from their experiences, and invest in what works. Instead of denying AI's existence, prepare your organization to thrive in an AI-infused world.",
@@ -109,7 +109,7 @@
     },
     {
       "slot_id": "jg-2026-09-26-ai-theater",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "Welcome to the world of AI theater, where companies — and increasingly, individuals — engage in performative, often exaggerated proclamations about artificial intelligence. These proclamations are rarely about the tech itself. More often, they’re veiled marketing schemes, brand-building exercises, or clever distractions.",
@@ -133,7 +133,7 @@
     },
     {
       "slot_id": "jg-2026-09-23-subsidized-tokens",
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "lane": "Inference economics",
       "mode": "evergreen",
       "passage": "For now, I use it without any concern for cost, not just because it’s free but also because Instinct’s venture capital subsidizes my token usage and the computing I consume every time it’s working on my behalf. As I’ve written before, free and heavily subsidized tokens are going away. I keep asking myself how much I’d pay for this, and how I’d use it differently if every prompt, task, and project cost money.",
@@ -157,7 +157,7 @@
     },
     {
       "slot_id": "jg-2026-09-24-activity-vs-productivity",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "lane": "CFO system for AI spend",
       "mode": "evergreen",
       "passage": "Consumption does not go hand in hand with productivity. There’s a lot of conflation between AI activity and AI productivity. People are doing lots of stuff with AI. The activity is real. How much of that activity is actually productive remains an open question.",
@@ -183,7 +183,7 @@
   "backlog": [
     {
       "slot_id": "jg-2026-10-01-inference-efficiency",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "lane": "Inference economics",
       "mode": "evergreen",
       "passage": "The most valuable expertise to build in-house is inference efficiency. How do you get the same output at a lower cost? I expect this to become a well-paid specialization in the next few months. Practically, that means two things. Build visibility into your inference spend now. Stress-test the ROI of your workflows at 2x and 3x current prices and see which ones still pencil out.",
@@ -207,7 +207,7 @@
     },
     {
       "slot_id": "jg-2026-10-03-tokens-not-compensation",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "A tool your employer provides so you can do your job is not compensation. Your laptop isn’t. Your Slack seat isn’t. Your token budget isn’t either. Ask about token budgets in interviews the same way you’d ask about hardware or dev tools. Just don’t let anyone put it on your offer letter and call it pay.",
@@ -231,7 +231,7 @@
     },
     {
       "slot_id": "jg-2026-10-05-executive-task-fit",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "lane": "AI and labor markets",
       "mode": "evergreen",
       "passage": "AI is better at what executives do than what employees do. This might be the most important point. Executives spend most of their time making decisions and communicating, exactly what large language models excel at. Employees, on the other hand, make the products and services the company sells. AI is dramatically better at helping you talk, write, and choose between options than it is at actually creating things.",
@@ -250,6 +250,30 @@
         "threads": [
           "AI is better at what executives do than what employees do. This might be the most important point.",
           "Executives make decisions and communicate. Employees make the products and services the company sells. AI is better at helping you talk, write, and choose than at actually creating things."
+        ]
+      }
+    },
+    {
+      "slot_id": "jg-2026-10-07-user-data-portability",
+      "date": "2026-10-08",
+      "lane": "Personal AI agents",
+      "mode": "evergreen",
+      "passage": "I jumped to Muse as soon as Instinct started acting up. Up until then, Instinct felt sticky. It knew my requests, understood what I wanted, and was working through a long list of my projects. But AI isn’t a person. Getting a new one up to speed doesn’t take long. Nothing locks me into either agent. When LLMs went mainstream a few years ago, I argued that these models would quickly become commoditized, and the real advantage would be something like proprietary data. For an agent working as my assistant, the proprietary data is mine. I can hand that to any agent.",
+      "source_piece": {
+        "title": "A Few Slow Hours Were All It Took to Make Me Cheat on My AI Agent",
+        "url": "https://jamaalglenn.substack.com/p/a-few-slow-hours-were-all-it-took"
+      },
+      "hook": null,
+      "platform_cuts": {
+        "linkedin": "I jumped to Muse as soon as Instinct started acting up. Up until then, Instinct felt sticky. It knew my requests, understood what I wanted, and was working through a long list of my projects. But AI isn’t a person. Getting a new one up to speed doesn’t take long. Nothing locks me into either agent.\n\nWhen LLMs went mainstream a few years ago, I argued that these models would quickly become commoditized, and the real advantage would be something like proprietary data. For an agent working as my assistant, the proprietary data is mine. I can hand that to any agent.",
+        "substack_notes": "Instinct felt sticky. It knew my requests and projects. But AI isn’t a person. Getting a new agent up to speed doesn’t take long. For an agent working as my assistant, the proprietary data is mine. I can hand that to any agent.",
+        "x": [
+          "1/ I jumped to another agent as soon as Instinct started acting up. It felt sticky until then: it knew my requests and projects.",
+          "2/ But AI isn’t a person. Getting a new one up to speed doesn’t take long. For an agent working as my assistant, the proprietary data is mine. I can hand that to any agent."
+        ],
+        "threads": [
+          "Instinct felt sticky. It knew my requests and projects. But AI isn’t a person. Getting a new agent up to speed doesn’t take long.",
+          "For an agent working as my assistant, the proprietary data is mine. I can hand that to any agent."
         ]
       }
     }
