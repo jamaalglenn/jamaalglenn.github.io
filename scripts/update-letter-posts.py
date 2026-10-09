@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Update only the two existing newsletter lists from the owner's public RSS."""
+import subprocess
 import argparse, datetime, email.utils, html, json, pathlib, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 FEED='https://jamaalglenn.substack.com/feed'
 def fetch(url):
- req=urllib.request.Request(url,headers={'User-Agent':'JamaalGlennSite/1.0','Cache-Control':'no-cache'})
- with urllib.request.urlopen(req,timeout=45) as r:return r.read()
+ return subprocess.run(['curl','--fail','--location','--silent','--show-error','--max-time','45','--user-agent','Mozilla/5.0','--header','Accept: application/rss+xml, application/xml, text/xml, */*',url],check=True,capture_output=True).stdout
 def date_label(pub):
  d=email.utils.parsedate_to_datetime(pub)
  return f'{d:%B} {d.day}, {d.year}'
