@@ -151,14 +151,14 @@
 <nav class="site-nav"><div class="wrap">
 <a class="nav-name" href="index.html">Jamaal Glenn</a>
 <input class="nav-toggle" id="nav-toggle" type="checkbox"/>
-<a class="mobile-subscribe" href="https://jamaalglenn.substack.com/subscribe">Subscribe</a><label aria-label="Menu" class="nav-burger" for="nav-toggle"><span></span><span></span><span></span></label>
+<a class="mobile-subscribe" href="https://jamaalglenn.substack.com/subscribe?utm_source=website&amp;utm_medium=nav&amp;utm_content=contact-mobile-nav-subscribe">Subscribe</a><label aria-label="Menu" class="nav-burger" for="nav-toggle"><span></span><span></span><span></span></label>
 <div class="nav-links">
 <a href="about.html">About</a>
 <a href="newsletter.html">Newsletter</a>
 <a href="speaking.html">Speaking</a>
 <a href="advisory.html">Advisory</a><a href="news.html">News</a>
 <a class="active" href="contact.html">Contact</a>
-<a class="subscribe" href="https://jamaalglenn.substack.com/subscribe">Subscribe</a>
+<a class="subscribe" href="https://jamaalglenn.substack.com/subscribe?utm_source=website&amp;utm_medium=nav&amp;utm_content=contact-desktop-nav-subscribe">Subscribe</a>
 </div>
 </div></nav>
 <div class="page-head"><div class="wrap">
@@ -175,7 +175,7 @@
 <footer class="site-footer"><div class="wrap">
 <div class="social">
 <a href="https://www.linkedin.com/in/jamaalglenn">LinkedIn</a>
-<a href="https://jamaalglenn.substack.com">Substack</a>
+<a href="https://jamaalglenn.substack.com?utm_source=website&amp;utm_medium=footer&amp;utm_content=contact-footer-substack">Substack</a>
 <a href="https://twitter.com/JamaalGlenn">Twitter / X</a>
 <a href="https://linktr.ee/jamaalglenn">Linktree</a>
 <a href="mailto:jamaal@jamaalglenn.com">Email</a>
@@ -186,4 +186,4 @@
 const form=document.getElementById('contact-form'),status=document.getElementById('form-status'),submit=form.querySelector('button[type=submit]');
 form.addEventListener('submit',async function(e){e.preventDefault();if(!form.checkValidity()){form.reportValidity();return;}submit.disabled=true;submit.textContent='Sending...';status.textContent='';try{const res=await fetch(form.action,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(form)))});const result=await res.json();if(res.ok&&result.success){status.textContent='Thanks. Your message has been sent.';form.reset();}else{status.textContent='Your message was not sent. Please try again.';}}catch(error){status.textContent='Your message was not sent. Please check your connection and try again.';}finally{submit.disabled=false;submit.textContent='Send message';}});
 </script></body>
-</html>
+  </html>
