@@ -866,9 +866,18 @@ footer .fine { text-align: center; color: #8b887e; font-size: 13px; }
 .client-logo-grid img[alt="News Corp"] { max-height: 44px; }
 .client-logo-grid img[alt="The Wall Street Journal"] { max-height: 40px; }
 
-/* Footer newsletter signup */
-footer .footer-signup { max-width: 460px; margin: 0 auto 30px; }
-footer .footer-signup iframe { display: block; }
 @media (max-width: 860px) {
   .client-logo-grid { grid-template-columns: 1fr 1fr; }
 }
+
+/* Footer newsletter signup */
+footer .footer-subscribe { max-width: 460px; margin: 0 auto 28px; text-align: center; }
+footer .footer-subscribe-title { color: #c9c6bd; font-size: 15px; margin: 0 0 12px; }
+footer .footer-subscribe-form { display: flex; gap: 8px; justify-content: center; }
+footer .footer-subscribe-form input[type="email"] { flex: 1; max-width: 300px; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.28); border-radius: 8px; padding: 11px 14px; color: #fff; font-size: 14px; font-family: inherit; }
+footer .footer-subscribe-form input[type="email"]::placeholder { color: #9a968b; }
+footer .footer-subscribe-form button { background: var(--gold); color: #fff; border: 0; border-radius: 8px; padding: 11px 20px; font-size: 14px; font-weight: 600; font-family: inherit; cursor: pointer; }
+footer .footer-subscribe-form button:hover { background: var(--gold-bright); }
+footer .footer-subscribe-fine { color: #8b887e; font-size: 12px; line-height: 1.5; margin: 10px 0 0; }
+footer .footer-subscribe-fine a { color: #8b887e; }
+footer .footer-subscribe-fine a:hover { color: var(--gold-bright); }
