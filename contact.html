@@ -173,8 +173,16 @@
 <button class="btn" type="submit">Send message</button><p id="form-status" role="status" aria-live="polite"></p>
 </form><p class="muted contact-note">You can also find me on <a href="https://www.linkedin.com/in/jamaalglenn">LinkedIn</a>.</p></div></div>
 <footer class="site-footer"><div class="wrap">
-<div class="signup-box footer-signup">
-<iframe loading="lazy" scrolling="no" src="https://jamaalglenn.substack.com/embed?utm_source=website&amp;utm_medium=embed&amp;utm_content=contact-footer-subscribe-embed" title="Subscribe to Jamaal's Letter"></iframe>
+<div class="footer-subscribe">
+<p class="footer-subscribe-title">Subscribe to Jamaal's Letter</p>
+<form class="footer-subscribe-form" action="https://jamaalglenn.substack.com/api/v1/free?nojs=true" method="post" target="_blank">
+<input type="hidden" name="source" value="embed"/>
+<input type="hidden" name="first_url" value="https://jamaalglenn.github.io/contact.html"/>
+<input type="hidden" name="current_url" value="https://jamaalglenn.github.io/contact.html"/>
+<input aria-label="Email address" name="email" placeholder="Type your email..." required="" type="email"/>
+<button type="submit">Subscribe</button>
+</form>
+<p class="footer-subscribe-fine">By subscribing you agree to Substack's <a href="https://substack.com/tos">Terms of Use</a>, <a href="https://substack.com/privacy">Privacy Policy</a> and <a href="https://substack.com/ccpa#personal-data-collected">information collection notice</a>.</p>
 </div>
 <div class="social">
 <a href="https://www.linkedin.com/in/jamaalglenn">LinkedIn</a>
