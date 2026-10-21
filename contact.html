@@ -173,6 +173,9 @@
 <button class="btn" type="submit">Send message</button><p id="form-status" role="status" aria-live="polite"></p>
 </form><p class="muted contact-note">You can also find me on <a href="https://www.linkedin.com/in/jamaalglenn">LinkedIn</a>.</p></div></div>
 <footer class="site-footer"><div class="wrap">
+<div class="signup-box footer-signup">
+<iframe loading="lazy" scrolling="no" src="https://jamaalglenn.substack.com/embed?utm_source=website&amp;utm_medium=embed&amp;utm_content=contact-footer-subscribe-embed" title="Subscribe to Jamaal's Letter"></iframe>
+</div>
 <div class="social">
 <a href="https://www.linkedin.com/in/jamaalglenn">LinkedIn</a>
 <a href="https://jamaalglenn.substack.com?utm_source=website&amp;utm_medium=footer&amp;utm_content=contact-footer-substack">Substack</a>
@@ -186,4 +189,4 @@
 const form=document.getElementById('contact-form'),status=document.getElementById('form-status'),submit=form.querySelector('button[type=submit]');
 form.addEventListener('submit',async function(e){e.preventDefault();if(!form.checkValidity()){form.reportValidity();return;}submit.disabled=true;submit.textContent='Sending...';status.textContent='';try{const res=await fetch(form.action,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(form)))});const result=await res.json();if(res.ok&&result.success){status.textContent='Thanks. Your message has been sent.';form.reset();}else{status.textContent='Your message was not sent. Please try again.';}}catch(error){status.textContent='Your message was not sent. Please check your connection and try again.';}finally{submit.disabled=false;submit.textContent='Send message';}});
 </script></body>
-  </html>
+</html>
