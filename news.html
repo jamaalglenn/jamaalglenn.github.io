@@ -166,7 +166,7 @@
 <a href="https://www.linkedin.com/in/jamaalglenn">LinkedIn</a>
 <a href="https://jamaalglenn.substack.com?utm_source=website&amp;utm_medium=footer&amp;utm_content=news-footer-substack">Substack</a>
 <a href="https://twitter.com/JamaalGlenn">Twitter / X</a>
-<a href="mailto:jamaal@jamaalglenn.com">Email</a>
+<a href="https://www.threads.net/@jamaalglenn">Threads</a>
 </div>
 <p class="fine">© 2026 Jamaal Glenn</p>
 </div></footer><script>const g=document.querySelector('#archive'),b=document.querySelector('.load-more'),c=document.querySelector('.archive-count'),chips=[...document.querySelectorAll('.filters button')];let current='All';function matches(card){return current==='All'||card.dataset.category===current}function render(open=false){[...g.children].forEach(card=>card.style.display='none');let matching=[...g.children].filter(matches);matching.forEach((card,i)=>card.style.display=(open||i<9)?'block':'none');const more=matching.length>9;b.style.display=more?'inline-block':'none';b.textContent=open?'Show fewer':'Load more';b.dataset.open=open?'1':'0';c.textContent=(open?matching.length:Math.min(9,matching.length))+' of '+matching.length+' items shown'}b.addEventListener('click',()=>render(b.dataset.open!=='1'));chips.forEach(x=>x.addEventListener('click',()=>{chips.forEach(y=>y.classList.remove('on'));x.classList.add('on');current=x.dataset.filter;render(false)}));render(false);</script></body></html>
