@@ -66,6 +66,7 @@ nav.site-nav .wrap { display: flex; align-items: center; justify-content: space-
 .band.dark .btn-ghost { border-color: var(--gold-bright); color: var(--gold-bright); }
 .band.dark .btn-ghost:hover { background: var(--gold-bright); color: var(--navy); }
 .band-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+#newsletter .band-grid { grid-template-columns: 1fr; } /* Keep the Substack signup below the intro at every width */
 
 /* Substack embed */
 .signup-box { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 30px; }
